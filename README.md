@@ -4,7 +4,7 @@ Subscription based uber like sustem
 The basic idea behind this project is that users put in money into budride and the money gets deducted when they order a ride.
 
 
-##  How it works
+##  How it works FOR CLIENTS
 > SIGN UP
 > DEPOSIT A CERTAIN AMOUNT. NO PLAN
 > ORDER A RIDE
